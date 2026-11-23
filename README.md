@@ -67,10 +67,5 @@ Change the default `root` password immediately after your first login:
 ```bash
 passwd
 
-Component,Specification
-Target Hardware,Antminer S9 Control Board (Xilinx Zynq-7010 Dual-Core ARM Cortex-A9)
-Base OS,Debian 12 (Bookworm) armhf
-Kernel,4.4.0-xilinx (FIT Image with FPGA Bitstream)
-Init System,sysvinit-core
-Idle RAM Usage,~31 MB / 512 MB (+ 256 MB ZRAM Swap)
-Telemetry UI,Built-in Python HTTP Agent on Port 8080
+Author & Maintainer
+Created and maintained by ParrotRex (Mohammad) 
