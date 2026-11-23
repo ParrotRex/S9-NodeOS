@@ -62,7 +62,7 @@ By default, Antminer S9 control boards boot from internal **NAND** memory and wi
 3. Move **`JP4`** from the bottom two pins (`NAND`) to the **top two pins (`SD`)** as shown below:
 
 <div align="center">
-  <img src="assets/S9-Jumpers.jpg" alt="Antminer S9 Boot Jumper Configuration (NAND vs SD)" width="820">
+  <img src="assets/S9-Jumpers.png" alt="Antminer S9 Boot Jumper Configuration (NAND vs SD)" width="820">
 </div>
 
 <br>
